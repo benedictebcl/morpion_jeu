@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'pry'
+gem 'nokogiri'
+gem 'rubocop'
+gem 'rspec'
+gem 'espeak-ruby', '~> 1.0', '>= 1.0.4'
